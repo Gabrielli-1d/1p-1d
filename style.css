@@ -1,11 +1,20 @@
 body{
-background-color: blueviolet;
-color: aqua;
+background-color: #efeac5;
+color: #360745;
 }
 h3{
     text-align: center;
 }
-header{
-    color: antiquewhite;
+nav{
+    color: #d61c59;
+    background-color: aqua;
 }
-a{color: rgb(135, 228, 197);}
+.primeiro-titulo{
+    text-align: center;
+    color: antiquewhite;
+    background-color: #e7d84b;
+    padding: 25;
+    margin: 10;
+}
+
+a{color: #1b8798;}
