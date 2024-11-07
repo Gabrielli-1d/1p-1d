@@ -1,5 +1,5 @@
 body{
-background-color: #efeac5;
+background-color: #eeece2;
 color: #360745;
 }
 h3{
@@ -7,14 +7,27 @@ h3{
 }
 nav{
     color: #d61c59;
-    background-color: aqua;
+    background-color: rgb(18, 88, 88);
 }
 .primeiro-titulo{
     text-align: center;
-    color: antiquewhite;
-    background-color: #e7d84b;
-    padding: 25;
-    margin: 10;
+    color: rgb(35, 5, 53);
+    background-color: #961a4d;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+
 }
 
-a{color: #1b8798;}
+a{
+    color: #1b8798;
+padding: 20px;
+text-decoration: none;
+font-size: 24px;
+}
+a:hover{
+    color: rgb(52, 41, 114);
+    text-decoration: underline;
+}
