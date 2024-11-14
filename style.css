@@ -9,17 +9,16 @@ nav{
     color: #d61c59;
     background-color: rgb(18, 88, 88);
 }
-.primeiro-titulo{
+h3{
     text-align: center;
-    color: rgb(35, 5, 53);
-    background-color: #961a4d;
+    color: rgb(87, 126, 172);
+    background-color: #08184b;
     padding: 20px;
     margin: 20px;
     display: flex;
     justify-content: space-between;
-    
-
 }
+
 
 a{
     color: #1b8798;
@@ -30,4 +29,9 @@ font-size: 24px;
 a:hover{
     color: rgb(52, 41, 114);
     text-decoration: underline;
+}
+
+section{
+
+display: flex;
 }
